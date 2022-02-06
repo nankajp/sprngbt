@@ -4,6 +4,14 @@ just studying page.
 
 ## get started
 
+* install
+
+https://mergedoc.osdn.jp/
+
+java FullEdition 64bit
+
+* create project 
+
 https://start.spring.io/
 
 ```
@@ -18,6 +26,13 @@ Dependencies
   Thymeleaf
 ```
 
-## a
+* first step
 
+```
+./gradlew.bat 
 
+eclipse -> impoert -> 既存のgradleプロジェクト
+
+プロジェクト名上で右クリック -> 実行 -> SpringBootApplication
+https://mebee.info/2020/08/09/post-12840/
+```
